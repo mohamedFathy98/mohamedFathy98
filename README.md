@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+ <br/>
+ # <div align="center">I'm Mohamed Fathy, a full-stack developer 👨‍💻 🚀</div>  
+  <br/>
 
-<!--
-**mohamedFathy98/mohamedFathy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Skills  
+  
 
-Here are some ideas to get you started:
+- ❓ Ask me about anything related to Fullstack and related technologies  
+ 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
