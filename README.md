@@ -38,7 +38,7 @@
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
  <a href="https://www.w3schools.com/sql" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" alt="SQL" height="50" /></a>  
 </div>
-
+</td></tr></table>  
 <br/>  
 <br/>
 
