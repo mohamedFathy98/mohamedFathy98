@@ -39,7 +39,8 @@
  <a href="https://www.w3schools.com/sql" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" alt="SQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<br/>  
+<br/>
 
 ## Connect with me 🚀
 
