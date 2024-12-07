@@ -10,7 +10,7 @@
 
 - ❓ Ask me about anything related to Fullstack and related technologies  
 
- - 📫 How to reach me: [mdx7700@gmail.com](mailto:mohmedfathii98@gmail.com)
+ - 📫 How to reach me: [mohmedfathii98@gmail.com](mailto:mohmedfathii98@gmail.com)
 
 <br/>  
 
